@@ -1,0 +1,25 @@
+12:28:01 [default-nioEventLoopGroup-1-5] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:02 [default-nioEventLoopGroup-1-6] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:02 [default-nioEventLoopGroup-1-7] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:03 [default-nioEventLoopGroup-1-8] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:04 [default-nioEventLoopGroup-1-9] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:05 [default-nioEventLoopGroup-1-2] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:05 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:06 [default-nioEventLoopGroup-1-4] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:06 [default-nioEventLoopGroup-1-5] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:07 [default-nioEventLoopGroup-1-6] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:07 [default-nioEventLoopGroup-1-7] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:07 [default-nioEventLoopGroup-1-8] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:28:07 [default-nioEventLoopGroup-1-9] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:35:43 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:36:16 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Casbin Authorization successful for path : /Employee/add
+12:36:17 [default-nioEventLoopGroup-1-3] INFO  com.restapi.Controller.EmployeeController - com.restapi.Controller.EmployeeController .HttpResponse<CustomResponse> addEmployee(@Body Employee employee)
+12:37:22 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:37:53 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Casbin Authorization failed for path : /Employee/add
+12:38:29 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Casbin Authorization successful for path : /Employee/GetallEmployee
+12:38:29 [default-nioEventLoopGroup-1-3] INFO  com.restapi.Controller.EmployeeController - com.restapi.Controller.EmployeeController .HttpResponse<List<Employee>> getAllEmployee()
+12:44:12 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Fall back to Micronaut security as authentication is null
+12:44:48 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Casbin Authorization successful for path : /Employee/add
+12:44:49 [default-nioEventLoopGroup-1-3] INFO  com.restapi.Controller.EmployeeController - com.restapi.Controller.EmployeeController .HttpResponse<CustomResponse> addEmployee(@Body Employee employee)
+12:45:30 [default-nioEventLoopGroup-1-3] INFO  com.restapi.auth.CasbinSecurity - Casbin Authorization successful for path : /Employee/GetallEmployee
+12:45:30 [default-nioEventLoopGroup-1-3] INFO  com.restapi.Controller.EmployeeController - com.restapi.Controller.EmployeeController .HttpResponse<List<Employee>> getAllEmployee()
